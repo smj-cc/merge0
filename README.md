@@ -1,4 +1,5 @@
 # NOTICE: THIS PROJECT HAS MOVED TO [CODEBERG][1]
+# Last updated at codeberg on 2026-Mar-30
 
 # merge0: Bytewise merge two incomplete files
 
